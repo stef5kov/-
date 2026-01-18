@@ -1,5 +1,5 @@
 import turtle
-print("Вижте ще нарисувам усмивка!")
+print("Вижте, ще нарисувам усмивка!")
 t = turtle.Turtle()
 t.forward(100)
 t.left(90)
